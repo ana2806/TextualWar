@@ -10,5 +10,5 @@ An attacker is chosen randomly. But the attacker always attacks that soldier in 
 Of course, the army that first destroys the enemy army wins. Therefore, defeated army is army that first loses all soldiers.  
 
 ## Getting started
-Files should be placed on a server where they going to be executed.  
+Files should be placed on a server where they are going to be executed.  
 Number of soldiers for each army is given in $_GET_ with (eg.) ?army1=50&army2=48.
