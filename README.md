@@ -11,4 +11,4 @@ Of course, the army that first destroys the enemy army wins. Therefore, defeated
 
 ## Getting started
 Files should be placed on a server that will execute them.  
-Number of soldiers for each army is given in $_GET_ with ?army1=50&army2=48.
+Number of soldiers for each army is given in $_GET_ with (eg.) ?army1=50&army2=48.
