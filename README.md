@@ -7,5 +7,7 @@ At the beginning, every soldier has five bullets in his weapon. We divide the so
 The soldier can attack (shoot) if he is alive and if there are more bullets in his weapon.   
 The battle itself is conceived so that soldiers are attacking each other - first attacks a soldier from the first army and then a soldier from second army.   
 An attacker is chosen randomly. But the attacker always attacks that soldier in the enemy army, which is "the first on the line" (the surviving soldier with the lowest index).   
-Of course, the army that first destroys the enemy army wins. Therefore, defeated army is army that first loses all soldiers.   
+Of course, the army that first destroys the enemy army wins. Therefore, defeated army is army that first loses all soldiers.  
 
+## Getting started
+Files should be placed on a server that will execute them. Number of soldiers for each army is given in $_$_GET_$ with ?army1=50&army2=48.
